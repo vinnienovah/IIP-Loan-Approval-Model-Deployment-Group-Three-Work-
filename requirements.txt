@@ -1,0 +1,10 @@
+streamlit
+matplotlib
+pandas
+scikit-learn
+numpy
+seaborn
+scipy
+xgboost
+#pickle5
+# Add any other necessary packages
