@@ -23,9 +23,10 @@ This project is a **Loan Approval System** that uses a machine learning model to
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/iip_capstone_project.git
-    cd iip_capstone_project/iip_capstone_project/iip
+    git clone https://github.com/vinnienovah/IIP-Loan-Approval-Model-Deployment-Group-Three-Work-.git
+    cd IIP-Loan-Approval-Model-Deployment-Group-Three-Work/IIP-Loan-Approval-Model-Deployment-Group-Three-Work/iip
     ```
+
 
 2. **Install the required dependencies**:
     ```bash
@@ -40,7 +41,7 @@ This project is a **Loan Approval System** that uses a machine learning model to
     ```
 
 2. **Access the application**:
-   Open your web browser and navigate to `https://loan-approval-model-deployment-system.streamlit.app/`. Here, you can explore the dataset and make loan approval predictions.
+   Open your web browser and navigate to or click this link `[https://loan-approval-model-deployment-system.streamlit.app/](https://loan-approval-model-deployment-system.streamlit.app/)`. Here, you can explore the dataset and make loan approval predictions.
 
 ## Usage
 
