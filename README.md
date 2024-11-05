@@ -40,7 +40,7 @@ This project is a **Loan Approval System** that uses a machine learning model to
     ```
 
 2. **Access the application**:
-   Open your web browser and navigate to `https://loan-approval-system.streamlit.app/`. Here, you can explore the dataset and make loan approval predictions.
+   Open your web browser and navigate to `https://loan-approval-model-deployment-system.streamlit.app/`. Here, you can explore the dataset and make loan approval predictions.
 
 ## Usage
 
